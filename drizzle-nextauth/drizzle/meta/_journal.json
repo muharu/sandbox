@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1693609123398,
+      "tag": "0000_flashy_demogoblin",
+      "breakpoints": true
+    }
+  ]
+}
